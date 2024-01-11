@@ -27,5 +27,5 @@ Add your openai key from here [https://platform.openai.com/api-keys](https://pla
 Run command from terminal
 
 ```
-export $(cat .env | xargs) && python ./src/prompt.py
+export $(cat .env | xargs) && poetry run jupyter notebook --ServerApp.token="" --ServerApp.password="" --notebook-dir ./src
 ```
