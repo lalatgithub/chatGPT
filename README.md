@@ -1,11 +1,13 @@
 ##### Setup env
 
+If you are a poetry guy
 ```
 poetry update
 ```
 
 OR
 
+If you are a pip/venv guy
 ```
 python -m venv .venv
 ```
