@@ -1,7 +1,6 @@
 #### OpenAI bootcamp
 
-This repo includes some practice examples using openAI [ChatGPT-3, DALL-E], Python, Jupyter Notebook, Poetry etc
-
+This repo includes some practice examples using openAI [ChatGPT-3.5, DALL-E], Python, Jupyter Notebook, Poetry etc.
 The repository includes both Python raw scripts and Jupyter Notebooks to visualize the data in browser.
 
 #### Tech Stack
