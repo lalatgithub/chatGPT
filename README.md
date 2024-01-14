@@ -1,4 +1,18 @@
-##### Setup env
+#### OpenAI bootcamp
+
+This repo includes some practice examples using openAI [ChatGPT-3, DALL-E], Python, Jupyter Notebook, Poetry etc
+
+The repository includes both Python raw scripts and Jupyter Notebooks to visualize the data in browser.
+
+#### Tech Stack
+* Python 3.11
+* ChatGPT-3.5
+* DALL-E
+* SQLAlchemy
+* SQLite
+* Jupyter
+
+#### Setup and Run project
 
 If you are a poetry guy
 ```
@@ -20,7 +34,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-##### Run
+#### Run
 
 copy and rename `.env_example` to `.env`
 
