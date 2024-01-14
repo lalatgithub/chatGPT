@@ -11,6 +11,7 @@ notebook = "^7.0.6"
 sqlalchemy = "^2.0.25"
 pandas = "^2.1.4"
 openai = "^1.7.1"
+pillow = "^10.2.0"
 
 
 [build-system]
