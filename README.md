@@ -7,9 +7,11 @@ The repository includes both Python raw scripts and Jupyter Notebooks to visuali
 * Python 3.11
 * ChatGPT-3.5
 * DALL-E
+* Pandas
 * SQLAlchemy
 * SQLite
 * Jupyter
+* Pillow
 
 #### Setup and Run project
 
