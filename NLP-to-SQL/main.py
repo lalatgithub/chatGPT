@@ -3,6 +3,13 @@ import logging
 
 # locals
 import utils
+from git import Repo
+from pathlib import Path
+PROJECT_ROOT_DIR = Path(os.path.abspath('')).parent
+REPO_PATH = os.path.join(PROJECT_ROOT_DIR, '.git')
+repo = Repo(REPO_PATH)
+origin = repo.remote(name='origin')
+origin.push()
 
 logging.basicConfig(
                     level=logging.INFO, 
